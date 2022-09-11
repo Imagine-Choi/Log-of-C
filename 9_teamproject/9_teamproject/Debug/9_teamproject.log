@@ -1,0 +1,172 @@
+﻿  buildhouse.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(8,19): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(38,9): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(108,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(117,25): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(117,19): warning C4024: 'adele_house1': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(120,25): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(120,19): warning C4024: 'adele_house1': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,19): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,16): warning C4024: 'pauselong': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,28): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,21): warning C4024: 'pauselong': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,33): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(140,30): warning C4024: 'pauselong': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(145,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(150,68): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(150,62): warning C4024: 'compare_house': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(150,81): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(150,70): warning C4024: 'compare_house': 형식 및 실제 매개 변수 7의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(152,25): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(152,19): warning C4024: 'adele_house1': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(155,25): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(155,19): warning C4024: 'adele_house1': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(9,91): warning C4101: 'choice' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(7,20): warning C4101: 'line' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(87,9): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(232,19): warning C4020: 'textcolor': 실제 매개 변수가 너무 많습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(247,21): warning C4020: 'textcolor': 실제 매개 변수가 너무 많습니다.
+  longgame.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(8,19): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(38,9): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(106,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,19): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,16): warning C4024: 'pauselong': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,28): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,21): warning C4024: 'pauselong': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,33): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(134,30): warning C4024: 'pauselong': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(138,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(142,53): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(142,47): warning C4024: 'compare': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(142,66): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(142,55): warning C4024: 'compare': 형식 및 실제 매개 변수 7의 형식이 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(9,91): warning C4101: 'choice' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(7,20): warning C4101: 'line' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(86,9): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(233,19): warning C4020: 'textcolor': 실제 매개 변수가 너무 많습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(248,21): warning C4020: 'textcolor': 실제 매개 변수가 너무 많습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(322,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(361,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\main.c(772,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\main.c(809,14): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rcp.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(36,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(53,8): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(97,26): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(154,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(154,11): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(154,11): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(300,49): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\rcp.c(340,27): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  short.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(52,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(71,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(77,14): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(78,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(93,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(145,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(150,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(150,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(150,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(152,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(177,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(183,14): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(184,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(204,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(256,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(261,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(261,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(261,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(263,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(288,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(294,14): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(295,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(315,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(367,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(372,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(372,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(372,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(374,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(399,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(405,14): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(406,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(426,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(495,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(501,17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(501,17): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(501,17): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(503,32): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(530,26): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(561,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(565,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(569,17): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '/'이(가) 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(599,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(606,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(606,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(606,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(608,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(632,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(639,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(659,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(733,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(739,17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(739,17): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(739,17): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(741,32): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(768,26): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(799,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(803,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(807,17): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '/'이(가) 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(837,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(844,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(844,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(844,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(846,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(870,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(877,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(897,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(971,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(977,17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(977,17): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(977,17): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(979,32): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1006,26): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1037,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1041,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1045,17): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '/'이(가) 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1075,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1082,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1082,14): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1082,14): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1084,29): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1108,23): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1115,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1135,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1213,45): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1281,65): warning C4028: 정식 매개 변수 4이(가) 선언과 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1312,30): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  word.c
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\common.h(41,71): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(64,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(81,8): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(98,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(128,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(128,11): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(128,11): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(171,12): warning C4098: 'scanword': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(175,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(179,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(223,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\word.c(226,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+  코드를 생성하고 있습니다...
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\short.c(1311): warning C4715: 'timeattack': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\longgame.c(183): warning C4716: 'longgame': 값을 반환해야 합니다.
+C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\9_teamproject\buildhouse.c(193): warning C4716: 'buildhouse': 값을 반환해야 합니다.
+  9_teamproject.vcxproj -> C:\Users\Choi Sang\Desktop\건국대학교\1학년\C프로그래밍\팀플\9_teamproject\9_teamproject\Debug\9_teamproject.exe
